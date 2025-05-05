@@ -1,4 +1,4 @@
-# Integrated-Healthcare-Service-Analysis
+*# Integrated-Healthcare-Service-Analysis*
 
 *Performed analysis on healthcare service usage data to identify key trends and top services. Developed ARIMA models achieving over 90% forecasting accuracy. Built interactive dashboards to visualize insights, enabling data-driven decision-making and efficient resource planning for healthcare providers.*
 
@@ -6,7 +6,7 @@
 
 
 *## Table of Contents
-1.⁠ ⁠[Overview](#overview) /br
+1.⁠ ⁠[Overview](#overview) 
 2.⁠ ⁠[Features](#features)
 3.⁠ ⁠[Dataset](#dataset)
 4.⁠ ⁠[Workflow](#workflow)
@@ -17,12 +17,12 @@
 9.⁠ ⁠[Author](#author)*
 
 ## Overview
-Efficient healthcare delivery relies on understanding how and when services are used. This project analyzes historical service usage data to uncover trends, high-demand areas, and behavior patterns among patients. The primary objectives are:
+*Efficient healthcare delivery relies on understanding how and when services are used. This project analyzes historical service usage data to uncover trends, high-demand areas, and behavior patterns among patients. The primary objectives are:*
 
-•⁠  ⁠To conduct exploratory data analysis (EDA).
-•⁠  To visualize key patterns in service usage.
-•⁠  ⁠To derive insights that support better healthcare resource allocation.
-•⁠  ⁠To lay the groundwork for future predictive modeling.
+•⁠ *⁠To conduct exploratory data analysis (EDA).*
+•⁠ *To visualize key patterns in service usage.*
+•⁠ *⁠To derive insights that support better healthcare resource allocation.*
+•⁠ *⁠To lay the groundwork for future predictive modeling.*
 • #### Data Cleaning and Transformation:
 ◦ Handling missing values
 ◦ Dropping unnecessary columns
