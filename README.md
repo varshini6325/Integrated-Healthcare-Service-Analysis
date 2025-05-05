@@ -22,10 +22,10 @@
 
 Efficient healthcare delivery relies on understanding how and when services are used. This project analyzes historical service usage data to uncover trends, high-demand areas, and behavior patterns among patients. The primary objectives are:
 
-•⁠ ⁠To conduct exploratory data analysis (EDA).
-•⁠ To visualize key patterns in service usage.
-•⁠ To derive insights that support better healthcare resource allocation.
-•⁠ To lay the groundwork for future predictive modeling.
+•⁠ ⁠To conduct exploratory data analysis (EDA).   
+•⁠ To visualize key patterns in service usage.   
+•⁠ To derive insights that support better healthcare resource allocation.   
+•⁠ To lay the groundwork for future predictive modeling.   
 ### Data Cleaning and Transformation:
 ◦ Handling missing values           
 ◦ Dropping unnecessary columns
