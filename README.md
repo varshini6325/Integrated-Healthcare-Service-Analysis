@@ -26,20 +26,20 @@ Efficient healthcare delivery relies on understanding how and when services are 
 •⁠ To visualize key patterns in service usage.
 •⁠ To derive insights that support better healthcare resource allocation.
 •⁠ To lay the groundwork for future predictive modeling.
-#### Data Cleaning and Transformation:
+### Data Cleaning and Transformation:
 ◦ Handling missing values
 ◦ Dropping unnecessary columns
 ◦ Converting dates to appropriate datetime formats
 
-#### Exploratory Data Analysis:
+### Exploratory Data Analysis:
 ◦ Visualization of null values using heatmaps
 ◦ Understanding service usage trends over time
 
-#### Service Usage Insights:
+### Service Usage Insights:
 ◦ Identification of top-used services by month and year
 ◦ Grouped analysis of patient interactions
 
-#### Data Visualization:
+### Data Visualization:
 ◦ Graphical representation of service usage trends and top-used categories
 
 
