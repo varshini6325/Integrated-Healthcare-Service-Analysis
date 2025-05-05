@@ -27,7 +27,7 @@ Efficient healthcare delivery relies on understanding how and when services are 
 •⁠ To derive insights that support better healthcare resource allocation.
 •⁠ To lay the groundwork for future predictive modeling.
 ### Data Cleaning and Transformation:
-◦ Handling missing values
+◦ Handling missing values           
 ◦ Dropping unnecessary columns
 ◦ Converting dates to appropriate datetime formats
 
