@@ -8,13 +8,13 @@
 ## Table of Contents
 
 1.⁠ ⁠[Overview](#overview)             
-2.⁠ ⁠[Features](#features)
-3.⁠ ⁠[Dataset](#dataset)
-4.⁠ ⁠[Workflow](#workflow)
-5.⁠ ⁠[Technologies Used](#technologies-used)
-6.⁠ ⁠[Usage](#usage)
-7.⁠ ⁠[Results](#results)
-8.⁠ ⁠[Future Work](#future-work)
+2.⁠ ⁠[Features](#features)      
+3.⁠ ⁠[Dataset](#dataset)    
+4.⁠ ⁠[Workflow](#workflow)   
+5.⁠ ⁠[Technologies Used](#technologies-used)   
+6.⁠ ⁠[Usage](#usage)    
+7.⁠ ⁠[Results](#results)    
+8.⁠ ⁠[Future Work](#future-work)   
 9.⁠ ⁠[Author](#author)
 
 ## Overview
