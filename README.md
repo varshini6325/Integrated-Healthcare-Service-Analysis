@@ -46,7 +46,7 @@ Efficient healthcare delivery relies on understanding how and when services are 
 ## Dataset
 The dataset consists of Integrated Healthcare Service Analysiss data with the following columns:
 
-•⁠  ⁠patient_id, service_type, visit_date, visit_count, demographic_info, cost and more.
+•⁠  ⁠patient_id, service_type, visit_date, visit_count, demographic_info, cost and more.   
 •⁠  ⁠Includes sales, inventory, and transactional details.
  
 ## Workflow
