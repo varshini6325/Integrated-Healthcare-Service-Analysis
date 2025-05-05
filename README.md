@@ -95,12 +95,12 @@ cd healthcare-services-analysis
         ◦ Follow the notebook steps to preprocess and analyze the data.  
 
 ## Results
-•⁠  ⁠Identified peak usage periods for healthcare services.
-•⁠  Detected patterns based on service categories.
+•⁠  ⁠Identified peak usage periods for healthcare services.   
+•⁠  Detected patterns based on service categories.   
 •⁠  Highlighted potential areas for resource optimization.
 ## Future Work
-•⁠  ⁠Enhance the predictive capability using advanced machine learning models.
-•⁠  ⁠Incorporate external data sources for more robust sales forecasting.
+•⁠  ⁠Enhance the predictive capability using advanced machine learning models.   
+•⁠  ⁠Incorporate external data sources for more robust sales forecasting.   
 •⁠  ⁠Automate the pipeline for real-time data analysis.
 ## Author
 This project was developed by [varshini6325](https://github.com/varshini6325).
