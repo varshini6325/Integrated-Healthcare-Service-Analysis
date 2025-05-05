@@ -82,8 +82,8 @@ The notebook follows a systematic workflow:
 ## Usage  
 *1. Clone the repository:*  
    ⁠  
-git clone https://github.com/your-varshinimahankali/healthcare-services-analysis.git
-cd healthcare-services-analysis
+git clone [https://github.com/your-varshinimahankali/healthcare-services-analysis.git](https://github.com/varshini6325/Integrated-Healthcare-Service-Analysis)
+
     ⁠ 
 
 *2. Install required Python libraries:*  
