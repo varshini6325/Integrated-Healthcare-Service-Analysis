@@ -108,4 +108,4 @@ This project was developed by [varshini6325](https://github.com/varshini6325).
 ## Contact
 Feel free to connect for feedback or collaboration.  
  - varshinimahankali11@gmail.com
- - [LinkedIn](linkedin.com/in/sri-varshini-mahankali-24b60b273)
+ - [LinkedIn]([linkedin.com/in/sri-varshini-mahankali-24b60b273](https://www.linkedin.com/in/sri-varshini-mahankali-24b60b273/))
