@@ -5,7 +5,7 @@
 *This repository presents an analytical notebook designed to explore and extract insights from healthcare services usage data. It includes data preprocessing, visualization, and initial modeling to understand patterns in how healthcare services are utilized.*
 
 
-*## Table of Contents
+## Table of Contents
 
 1.⁠ ⁠[Overview](#overview) 
 2.⁠ ⁠[Features](#features)
@@ -15,7 +15,7 @@
 6.⁠ ⁠[Usage](#usage)
 7.⁠ ⁠[Results](#results)
 8.⁠ ⁠[Future Work](#future-work)
-9.⁠ ⁠[Author](#author)*
+9.⁠ ⁠[Author](#author)
 
 ## Overview
 *Efficient healthcare delivery relies on understanding how and when services are used. This project analyzes historical service usage data to uncover trends, high-demand areas, and behavior patterns among patients. The primary objectives are:*
